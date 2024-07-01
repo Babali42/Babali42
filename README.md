@@ -1,10 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm a fullstack dev interested in TDD red ❌ green ✅ refactor🧹.
+## I'm a fullstack dev interested in TDD red ❌ green ✅ refactor🧹.
+
 I learned TDD with @Magamat @adturpin and @DamnClin.
 
 🌱 I’m currently learning scala
+
 🔭 I’m currently working on www.drumbeatrepo.com
+
 👯 I’m looking to collaborate on open source project like a multimedia creation tool (for exemple a DAW)
 <!--
 **Babali42/Babali42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
