@@ -3,9 +3,7 @@
 
 I love TDD 💚
 
-I read english well, but my writing and speaking are not so good...
-
-I’m currently working on a rythm library called **DrumBeatRepo**
+I’m currently working on a rythm library website -> https://drumbeatrepo.com/
 
 I would like to contribute on open source web projects for musicians or artists, feel free ton contact me :
 
