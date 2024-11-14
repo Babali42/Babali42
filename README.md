@@ -31,7 +31,7 @@ I have experience working with the following technologies:
 
 ---
 
-:mailbox: Reach me out to connect with me, collaborate, or just say hello! !
+:mailbox: Contact me to connect with me, collaborate, or just say hello !
 
 [![Linkedin Badge](https://img.shields.io/badge/-Baptiste-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-lyet/)  [![Mail Badge](https://img.shields.io/badge/-bab07ali@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bab07ali@gmail.com)
 
