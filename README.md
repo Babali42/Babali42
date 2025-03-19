@@ -17,7 +17,7 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 
 ### [Dub Mixer](https://github.com/Babali42/fayacan-dub-mixer/)
 🎵 Learn to mix a dub track online !
-- Key tech: **Three.js** **Three.js**.
+- Tools: **Three.js**.
 - It's a mix between tech and music project
 
 
