@@ -9,7 +9,7 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 - **Functional Programming (Work in Progress):** Exploring FP paradigms to write cleaner and more efficient code.
 - **Open-Source Collaboration:** Actively contributing and open to pairing on projects.
 
-## 📌 Featured projects
+## 📌 Hobby projects
 ### [Drum Beat Repo](https://github.com/Babali42/drum-beat-repo)
 🎵 Explore and play drum patterns in your browser.
 - Built with **Angular**, **Scala**, and **Web Audio API**.
@@ -20,11 +20,12 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 - Tools: **Three.js**.
 - It's a mix between tech and music project
 
+## 🚀 Presentations
+### [CSS Selectors](https://github.com/Babali42/lunch-and-learn-css)
+A presentation about the basics of css selectors and specificity
 
 ## 🤝 Let's go !
 I'm always open to pair programming, discussing software architecture, or hacking on open-source projects together. Feel free to connect!
-
-## 📫 Get in touch
 - **Email:** [bab07ali@gmail.com](mailto:bab07ali@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/baptiste-lyet/](https://www.linkedin.com/in/baptiste-lyet/)
 
