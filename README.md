@@ -27,6 +27,14 @@ A presentation about the basics of css
 - CSS Selectors partial enumeration
 - CSS Specificity explanation
 
+### [Functional Paradigm](https://github.com/Babali42/FunctionalParadigmPresentation)
+What is functional is multi paradigm languages ?
+- Exploration of functional basics concepts
+  - types, immutability
+  - functions
+  - recursion
+- Examples in ocaml
+
 ## 🤝 Let's go !
 I'm always open to pair programming, discussing software architecture, or hacking on open-source projects together. Feel free to connect!
 - **Email:** [bab07ali@gmail.com](mailto:bab07ali@gmail.com)
