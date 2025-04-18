@@ -22,7 +22,10 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 
 ## 🚀 Presentations
 ### [CSS Selectors](https://github.com/Babali42/lunch-and-learn-css)
-A presentation about the basics of css selectors and specificity
+A presentation about the basics of css
+- DOM and CSS
+- CSS Selectors partial enumeration
+- CSS Specificity explanation
 
 ## 🤝 Let's go !
 I'm always open to pair programming, discussing software architecture, or hacking on open-source projects together. Feel free to connect!
