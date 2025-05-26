@@ -1,4 +1,4 @@
-# Hi, I'm Baptiste Lyet 👋
+# Hi 👋
 
 I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functional Programming**, and **software craftsmanship**. I love building scalable, maintainable software and improving workflows through well-tested and well-structured code.
 
