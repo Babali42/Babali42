@@ -35,6 +35,11 @@ What is functional is multi paradigm languages ?
   - recursion
 - Examples in ocaml
 
+### [Architecture tests in hexagonal architecture](https://github.com/Babali42/angular-hexagonal-architecture-tests)
+- What is an architecture test
+- How is structured an hexagonal application with many bounded contexts
+- Tests with jest and arch-unit-ts
+
 ## 🤝 Let's go !
 I'm always open to pair programming, discussing software architecture, or hacking on open-source projects together. Feel free to connect!
 - **Email:** [bab07ali@gmail.com](mailto:bab07ali@gmail.com)
