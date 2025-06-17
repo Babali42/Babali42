@@ -1,58 +1,61 @@
-# Hi 👋
+# 👨‍💻 Baptiste Lyet — Web Developer & Software Crafter
 
-I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functional Programming**, and **software craftsmanship**. I love building scalable, maintainable software and improving workflows through well-tested and well-structured code.
+Hi 👋
 
-## 🤸‍♂️ What I do
-- **Web Development:** I develop in javaScript, TypeScript, and modern frameworks like **Angular**.
-- **Backend Development:** Experienced in **ASP.NET Core** for building robust APIs and services.
-- **Test-Driven Development:** Strong advocate for writing reliable **tests** first.
-- **Functional Programming (Work in Progress):** Exploring **FP paradigms** to write cleaner and more efficient code.
-- **Open-Source Collaboration:** Actively contributing and open to pairing on projects.
+I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functional Programming**, and **Software Craftsmanship**. I love building scalable, maintainable software and improving workflows through well-tested and well-structured code.
 
-## 📌 Hobby projects (highest most recent)
+## 🌴 What I Do
+
+* **Web Development:** JavaScript, TypeScript, and modern frameworks like **Angular**.
+* **Backend Development:** Experienced with **ASP.NET Core** for building APIs and services.
+* **Test-Driven Development:** Advocate for writing **tests first** to ensure reliability.
+* **Functional Programming:** Currently exploring **FP paradigms** for cleaner, more efficient code.
+* **Open-Source Collaboration:** Actively contributing and open to **pair programming**.
+
+## 📌 Hobby Projects
+
 ### [Drum Beat Repo](https://github.com/Babali42/drum-beat-repo)
-🎵 Explore and play drum patterns in your browser.
-- Built with **Angular**, **Scala**, and **Web Audio API**.
-- Contributions welcome! Check the `CONTRIBUTING.md`.
+
+🎵 Explore and play drum patterns in your browser
+**Tech stack:** Angular, Scala, Web Audio API
 
 ### [Dub Mixer](https://github.com/Babali42/fayacan-dub-mixer/)
-🎵 Learn to mix a dub track online !
-- Tools: **Three.js**.
-- It's a mix between tech and music project
 
-## 🚀 Presentations (highest most recent)
+🎛️ Learn to mix a dub track online
+**Tech stack:** Three.js, Web Audio API
+A tech-meets-music project.
 
-### [Hexagonal architecture tests - 15 minutes](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
-- What is an **architecture test**
-- How is structured an hexagonal application with many bounded contexts
-- Tests with jest and arch-unit-ts
-- Example in an **angular** application
+## 🚀 Presentations
 
-### [What is functional in multi paradigm languages - 45 minutes](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
-What is functional in multi paradigm languages ?
-- Exploration of functional basics concepts
-  - types, immutability
-  - functions
-  - recursion
-- Examples in **ocaml**
+### [Hexagonal Architecture Tests — 15 Minutes](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
 
-### [CSS Selectors - 45 minutes](https://github.com/Babali42/css-selectors-in-45-minutes)
-A presentation about the basics of **css**
-- DOM and CSS
-- CSS Selectors partial enumeration
-- CSS Specificity explanation
+Understand architecture testing, hexagonal structure with bounded contexts, and testing with **Jest** and **arch-unit-ts** in an Angular app.
 
-### [CSS Architecture - 45 minutes](https://github.com/Babali42/css-architecture-in-45-minutes)
-A presentation about the **architecture in css** code
-- CSS Specificity
-- DOM Elements
-- OOCSS, BEM and SMACSS
+### [What is Functional in Multi-Paradigm Languages — 45 Minutes](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
 
+Explore functional programming concepts in multi-paradigm languages: types, immutability, recursion, and more.
+**Examples in:** OCaml
 
-## 🤝 Let's go !
-I'm always open to pair programming, discussing software architecture, or hacking on open-source projects together. Feel free to connect!
-- **Email:** [bab07ali@gmail.com](mailto:bab07ali@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/baptiste-lyet/](https://www.linkedin.com/in/baptiste-lyet/)
+### [CSS Selectors — 45 Minutes](https://github.com/Babali42/css-selectors-in-45-minutes)
 
-Let's talk about software development and music creation !
+An introduction to the basics of CSS:
 
+* DOM and CSS
+* Partial enumeration of selectors
+* Specificity explained
+
+### [CSS Architecture — 45 Minutes](https://github.com/Babali42/css-architecture-in-45-minutes)
+
+Learn how to structure CSS for maintainability:
+
+* Specificity
+* DOM Elements
+* OOCSS, BEM, SMACSS
+
+## 🤝 Let's Connect!
+
+I'm always open to pair programming, discussing architecture, or hacking on open-source.
+📧 **Email:** [bab07ali@gmail.com](mailto:bab07ali@gmail.com)
+🔗 **LinkedIn:** [baptiste-lyet](https://www.linkedin.com/in/baptiste-lyet/)
+
+Let's talk code and music!
