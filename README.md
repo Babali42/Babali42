@@ -9,7 +9,7 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 - **Functional Programming (Work in Progress):** Exploring **FP paradigms** to write cleaner and more efficient code.
 - **Open-Source Collaboration:** Actively contributing and open to pairing on projects.
 
-## 📌 Hobby projects
+## 📌 Hobby projects (highest most recent)
 ### [Drum Beat Repo](https://github.com/Babali42/drum-beat-repo)
 🎵 Explore and play drum patterns in your browser.
 - Built with **Angular**, **Scala**, and **Web Audio API**.
@@ -20,25 +20,34 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 - Tools: **Three.js**.
 - It's a mix between tech and music project
 
-## 🚀 Presentations
-### [CSS Selectors](https://github.com/Babali42/lunch-and-learn-css)
-A presentation about the basics of css
-- DOM and CSS
-- CSS Selectors partial enumeration
-- CSS Specificity explanation
+## 🚀 Presentations (highest most recent)
 
-### [Functional Paradigm](https://github.com/Babali42/FunctionalParadigmPresentation)
-What is functional is multi paradigm languages ?
+### [Hexagonal architecture tests - 15 minutes](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
+- What is an **architecture test**
+- How is structured an hexagonal application with many bounded contexts
+- Tests with jest and arch-unit-ts
+- Example in an **angular** application
+
+### [What is functional in multi paradigm languages - 45 minutes](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
+What is functional in multi paradigm languages ?
 - Exploration of functional basics concepts
   - types, immutability
   - functions
   - recursion
-- Examples in ocaml
+- Examples in **ocaml**
 
-### [Architecture tests in hexagonal architecture](https://github.com/Babali42/angular-hexagonal-architecture-tests)
-- What is an architecture test
-- How is structured an hexagonal application with many bounded contexts
-- Tests with jest and arch-unit-ts
+### [CSS Selectors - 45 minutes](https://github.com/Babali42/css-selectors-in-45-minutes)
+A presentation about the basics of **css**
+- DOM and CSS
+- CSS Selectors partial enumeration
+- CSS Specificity explanation
+
+### [CSS Architecture - 45 minutes](https://github.com/Babali42/css-architecture-in-45-minutes)
+A presentation about the **architecture in css** code
+- CSS Specificity
+- DOM Elements
+- OOCSS, BEM and SMACSS
+
 
 ## 🤝 Let's go !
 I'm always open to pair programming, discussing software architecture, or hacking on open-source projects together. Feel free to connect!
