@@ -16,7 +16,7 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 
 ### [Drum Beat Repo](https://github.com/Babali42/drum-beat-repo)
 
-🎵 Explore and play drum patterns in your browser
+🎵 Explore, create and share drum patterns in your browser
 **Tech stack:** Angular, Scala, Web Audio API
 
 ### [Dub Mixer](https://github.com/Babali42/fayacan-dub-mixer/)
