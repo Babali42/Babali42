@@ -25,6 +25,17 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 **Tech stack:** Three.js, Web Audio API
 A tech-meets-music project.
 
+## Minimal projects templates with unit tests
+
+- You can use them for code kata or training !
+- Tested in :
+  - Jetbrains IDEs (Webstorm and Rider)
+  - Command Line
+
+### [FSharp](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
+
+### [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
+
 ## 🚀 Presentations
 
 ### [Hexagonal Architecture Tests — 15 Minutes](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
