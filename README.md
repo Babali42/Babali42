@@ -33,6 +33,7 @@ Tested in **Jetbrains IDEs** (Webstorm and Rider) and it should work on other ID
 
 - ### [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
 - ### [Haskell](https://github.com/Babali42/haskell-template-with-htest)
+- ### [Scala](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
 - ### [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 
 ## 🚀 Presentations
