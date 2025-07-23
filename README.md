@@ -25,16 +25,15 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 **Tech stack:** Three.js, Web Audio API
 A tech-meets-music project.
 
-## Minimal projects templates with unit tests
+## 🧮 Cade katas projects templates with unit tests
 
-- You can use them for code kata or training !
-- Tested in :
-  - Jetbrains IDEs (Webstorm and Rider)
-  - Command Line
+You can use them for **code kata** or **training** !
 
-### [FSharp](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
+Tested in **Jetbrains IDEs** (Webstorm and Rider) and it should work on other IDE or in command line tools
 
-### [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
+- ### [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
+- ### [Haskell](https://github.com/Babali42/haskell-template-with-htest)
+- ### [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 
 ## 🚀 Presentations
 
