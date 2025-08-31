@@ -25,7 +25,7 @@ I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functi
 **Tech stack:** Three.js, Web Audio API
 A tech-meets-music project.
 
-## 🧮 Cade katas projects templates with unit tests
+## 🧮 Code katas projects templates with unit tests
 
 You can use them for **code kata** or **training** !
 
