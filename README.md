@@ -4,26 +4,12 @@ Hi 👋
 
 I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functional Programming**, and **Software Craftsmanship**. I love building scalable, maintainable software and improving workflows through well-tested and well-structured code.
 
-## 🌴 What I Do
-
-* **Web Development:** JavaScript, TypeScript, and modern frameworks like **Angular**.
-* **Backend Development:** Experienced with **ASP.NET Core** for building APIs and services.
-* **Test-Driven Development:** Advocate for writing **tests first** to ensure reliability.
-* **Functional Programming:** Currently exploring **FP paradigms** for cleaner, more efficient code.
-* **Open-Source Collaboration:** Actively contributing and open to **pair programming**.
-
-## 📌 Hobby Projects
+## 📌 Hobby Project
 
 ### [Drum Beat Repo](https://github.com/Babali42/drum-beat-repo)
 
 🎵 Explore, create and share drum patterns in your browser
 **Tech stack:** Angular, Scala, Web Audio API
-
-### [Dub Mixer](https://github.com/Babali42/fayacan-dub-mixer/)
-
-🎛️ Learn to mix a dub track online
-**Tech stack:** Three.js, Web Audio API
-A tech-meets-music project.
 
 ## 🧮 Code katas projects templates with unit tests
 
