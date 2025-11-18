@@ -1,15 +1,19 @@
-# 👨‍💻 Baptiste Lyet — Web Developer & Software Crafter
+# 👨‍💻 Web developer & apprentice software craftsman
 
 Hi 👋
+I'm a growing web developer eager to strengthen my skills in **Test-Driven Development (TDD)**, **Functional Programming**, and **Software Craftsmanship** as I continue learning and improving.
 
-I'm a web developer passionate about **Test-Driven Development (TDD)**, **Functional Programming**, and **Software Craftsmanship**. I love building scalable, maintainable software and improving workflows through well-tested and well-structured code.
+I enjoy working on code katas and exploring ways to make these exercises more accessible for others.
+
+I'm currently looking for open-source projects to contribute to, especially in **.NET**, **Angular**, or **TypeScript**.
+I'm a professional **.NET** developer and I'm currently learning **Scala** to broaden my understanding of functional programming.
 
 ## 📌 Hobby Project
 
 ### [Drum Beat Repo](https://github.com/Babali42/drum-beat-repo)
 
 🎵 Explore, create and share drum patterns in your browser
-**Tech stack:** Angular, Scala, Web Audio API
+**Tech stack:** Angular, Typescript, Web Audio API
 
 ## 🧮 Code katas projects templates with unit tests
 
