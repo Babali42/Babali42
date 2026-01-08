@@ -15,6 +15,10 @@ I'm a professional **.NET** developer and I'm currently learning **Scala** to br
 🎵 Explore, create and share drum patterns in your browser
 **Tech stack:** Angular, Typescript, Web Audio API
 
+## Code kata reports
+
+- [Opening Hours](https://github.com/Babali42/kata-opening-hours)
+
 ## 🧮 Code katas projects templates with unit tests
 
 You can use them for **code kata** or **training** !
