@@ -32,30 +32,19 @@ Tested in **Jetbrains IDEs** (Webstorm and Rider) and it should work on other ID
 
 ## 🚀 Presentations
 
-### [Hexagonal Architecture Tests — 15 Minutes](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
+Each presentation lasts between about 15 and 30 minutes
+
+### [Hexagonal Architecture Tests](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
 
 Understand architecture testing, hexagonal structure with bounded contexts, and testing with **Jest** and **arch-unit-ts** in an Angular app.
 
-### [What is Functional in Multi-Paradigm Languages — 45 Minutes](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
+### [What is Functional in Multi-Paradigm Languages](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
 
 Explore functional programming concepts in multi-paradigm languages: types, immutability, recursion, and more.
 **Examples in:** OCaml
 
-### [CSS Selectors — 45 Minutes](https://github.com/Babali42/css-selectors-in-45-minutes)
-
-An introduction to the basics of CSS:
-
-* DOM and CSS
-* Partial enumeration of selectors
-* Specificity explained
-
-### [CSS Architecture — 45 Minutes](https://github.com/Babali42/css-architecture-in-45-minutes)
-
-Learn how to structure CSS for maintainability:
-
-* Specificity
-* DOM Elements
-* OOCSS, BEM, SMACSS
+### [CSS Selectors](https://github.com/Babali42/css-selectors-in-45-minutes)
+### [CSS Architecture](https://github.com/Babali42/css-architecture-in-45-minutes)
 
 ## 🤝 Let's Connect!
 
