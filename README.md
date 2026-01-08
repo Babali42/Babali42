@@ -31,3 +31,7 @@ Feel free to browse my repos and reach me !
 - [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 - [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
+
+## Code koans
+
+- [RxJS](https://github.com/Babali42/RxJSKoans)
