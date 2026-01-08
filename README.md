@@ -8,7 +8,7 @@ I'm open to contributing to open-source projects in **.NET**, **Angular**, or **
 
 Feel free to browse my repos and reach me !
 
-## Hobby project - Drum Beat Repo
+## Current Hobby project - Drum Beat Repo
 
 🎵 Explore, create and share drum patterns in your browser
 
@@ -18,6 +18,10 @@ Feel free to browse my repos and reach me !
 - View code (and contribute!) : https://github.com/Babali42/drumbeatrepo
 - Watch the talk : https://www.youtube.com/watch?v=Y5aUoYGizNM
 
+## Past Hobby project (related to music)
+
+- [Fayacan son dub mixer](https://github.com/Babali42/fayacan-dub-mixer)
+
 ## Technical slideshows
 
 - [Hexagonal Architecture Tests](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
@@ -25,7 +29,7 @@ Feel free to browse my repos and reach me !
 - [CSS Selectors](https://github.com/Babali42/css-selectors-in-45-minutes)
 - [CSS Architecture](https://github.com/Babali42/css-architecture-in-45-minutes)
 
-## Code katas projects templates with unit tests
+## Code katas - project templates with unit tests
 
 - [Scala](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
 - [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
@@ -34,4 +38,4 @@ Feel free to browse my repos and reach me !
 
 ## Code koans
 
-- [RxJS](https://github.com/Babali42/RxJSKoans)
+- [RxJS Koans (updated)](https://github.com/Babali42/RxJSKoans)
