@@ -16,7 +16,7 @@ Feel free to browse my repos and reach me !
 
 - Check it at : www.drumbeatrepo.com
 - View code (and contribute!) : https://github.com/Babali42/drumbeatrepo
-- Watch the talk : https://www.youtube.com/watch?v=Y5aUoYGizNM
+- Watch the talk - Tremplin de SnowCamp - Novembre 2025 : https://www.youtube.com/watch?v=Y5aUoYGizNM
 
 ## Past Hobby project (related to music)
 
