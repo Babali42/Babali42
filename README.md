@@ -20,7 +20,7 @@ Feel free to browse my repos and reach me !
 
 ## Past Hobby project (related to music)
 
-- [Fayacan son dub mixer](https://github.com/Babali42/fayacan-dub-mixer)
+- A [3D web-based music mixer](https://github.com/Babali42/fayacan-dub-mixer) developed for a dub musician, featuring real-time audio effects and an interactive interface.
 
 ## Technical slideshows
 
