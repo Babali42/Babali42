@@ -31,7 +31,8 @@ Feel free to browse my repos and reach me !
 
 ## Code katas - project templates with unit tests
 
-- [Scala](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
+- [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
+- [Scala (sbt)](https://github.com/Babali42/ScalaNix)
 - [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 - [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
