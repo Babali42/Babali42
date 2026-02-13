@@ -4,7 +4,7 @@ I'm a professional **.NET web developer** with a strong interest in **Test-Drive
 
 I'm currently learning **Scala** to deepen my understanding of functional programming.
 
-I'm open to contributing to open-source projects in **.NET**, **Angular**, or **TypeScript**.
+I'm open to contributing to open-source projects in **.NET**, **Angular**, **TypeScript** or **Scala**.
 
 Feel free to browse my repos and reach me !
 
@@ -21,6 +21,10 @@ Feel free to browse my repos and reach me !
 ## Past Hobby project (related to music)
 
 - A [3D web-based music mixer](https://github.com/Babali42/fayacan-dub-mixer) developed for a dub musician, featuring real-time audio effects and an interactive interface.
+
+## Open Source Contributions
+
+- [CreativeScala/Krop](https://github.com/creativescala/krop) documentation and improvments on a Scala backend web framework
 
 ## Technical slideshows
 
