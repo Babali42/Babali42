@@ -24,7 +24,7 @@ Feel free to browse my repos and reach me !
 
 ## Open Source Contributions
 
-- [RenovateBot/Renovate](https://github.com/renovatebot/renovate/) improve docs : styling a table and add unit tests [#41573](https://github.com/renovatebot/renovate/pull/41573)
+- [RenovateBot/Renovate](https://github.com/renovatebot/renovate/) docs : improve styling on a table; add unit tests [#41573](https://github.com/renovatebot/renovate/pull/41573)
 - [CreativeScala/Krop](https://github.com/creativescala/krop) documentation and improvments on a Scala backend web framework [#41](https://github.com/creativescala/krop/pull/41)
 
 ## Technical slideshows
