@@ -24,7 +24,7 @@ Feel free to browse my repos and reach me !
 
 ## Open Source Contributions
 
-- [CreativeScala/Krop](https://github.com/creativescala/krop) documentation and improvments on a Scala backend web framework
+- [CreativeScala/Krop](https://github.com/creativescala/krop/pull/41) documentation and improvments on a Scala backend web framework
 
 ## Technical slideshows
 
