@@ -8,7 +8,7 @@ I'm open to contributing to open-source projects in **.NET**, **Angular**, **Typ
 
 Feel free to browse my repos and reach me !
 
-## Current Hobby project - Drum Beat Repo
+## My current Hobby project : Drum Beat Repo
 
 🎵 Explore, create and share drum patterns in your browser
 
@@ -18,24 +18,27 @@ Feel free to browse my repos and reach me !
 - View code (and contribute!) : https://github.com/Babali42/drumbeatrepo
 - Watch the talk - Tremplin de SnowCamp - Novembre 2025 : https://www.youtube.com/watch?v=Y5aUoYGizNM
 
-## Past Hobby project (related to music)
-
-- A [3D web-based music mixer](https://github.com/Babali42/fayacan-dub-mixer) developed for a dub musician, featuring real-time audio effects and an interactive interface.
-
 ## Open Source Contributions
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) minor changes in documentation
 - [RenovateBot/Renovate](https://github.com/renovatebot/renovate/) docs : improve styling on a table; add unit tests [#41573](https://github.com/renovatebot/renovate/pull/41573)
 - [CreativeScala/Krop](https://github.com/creativescala/krop) documentation and improvments on a Scala backend web framework [#41](https://github.com/creativescala/krop/pull/41)
 
-## Technical slideshows
+## The slideshows of my mini presentations
 
 - [Hexagonal Architecture Tests](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
 - [What is Functional in Multi-Paradigm Languages](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
 - [CSS Selectors](https://github.com/Babali42/css-selectors-in-45-minutes)
 - [CSS Architecture](https://github.com/Babali42/css-architecture-in-45-minutes)
 
-## Code katas - project templates with unit tests
+## Code koans
+
+- [RxJS Koans (updated)](https://github.com/Babali42/RxJSKoans)
+  
+---
+## Code katas - minimalistic templates with unit tests
+
+__*git clone and code !! 🧑‍💻*__  
 
 - [Scala (sbt)  -  up-to-date](https://github.com/Babali42/ScalaNix)
 - [F#  -  up-to-date](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
@@ -43,6 +46,4 @@ Feel free to browse my repos and reach me !
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
 - [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
 
-## Code koans
 
-- [RxJS Koans (updated)](https://github.com/Babali42/RxJSKoans)
