@@ -1,4 +1,4 @@
-# Web developer & software craftsmanship enthusiast
+# Full‑stack dev | Angular & .NET | TDD enthusiast | WebAudio & music apps
 
 I'm a professional **.NET web developer** with a strong interest in **Test-Driven Development**, **Functional Programming**, and **Software Craftsmanship**.
 
