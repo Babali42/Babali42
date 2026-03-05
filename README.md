@@ -6,14 +6,12 @@ I'm currently learning **Scala** to deepen my understanding of functional progra
 
 I'm open to contributing to open-source projects in **.NET**, **Angular**, **TypeScript** or **Scala**.
 
+## Hobby Project – Drum Beat Repo:
 
-## My current Hobby project : Drum Beat Repo
-
-**Tech stack:** Angular, Typescript, Web Audio API
-
-- Explore, modify or create drum patterns at : www.drumbeatrepo.com
-- View code (and contribute!) : https://github.com/Babali42/drumbeatrepo
-- Watch the talk - Tremplin de SnowCamp - Novembre 2025 : https://www.youtube.com/watch?v=Y5aUoYGizNM
+- Tech stack: Angular, TypeScript, Web Audio API
+- Explore, modify, or create drum patterns: [drumbeatrepo.com](https://www.drumbeatrepo.com)
+- View code and contribute: [GitHub](https://github.com/Babali42/drumbeatrepo)
+- Watch my talk: Tremplin de SnowCamp, Nov 2025 – [YouTube](https://www.youtube.com/watch?v=Y5aUoYGizNM)
 
 ## Open Source Contributions
 
