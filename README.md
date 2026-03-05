@@ -6,15 +6,12 @@ I'm currently learning **Scala** to deepen my understanding of functional progra
 
 I'm open to contributing to open-source projects in **.NET**, **Angular**, **TypeScript** or **Scala**.
 
-Feel free to browse my repos and reach me !
 
 ## My current Hobby project : Drum Beat Repo
 
-🎵 Explore, create and share drum patterns in your browser
-
 **Tech stack:** Angular, Typescript, Web Audio API
 
-- Check it at : www.drumbeatrepo.com
+- Explore, modify or create drum patterns at : www.drumbeatrepo.com
 - View code (and contribute!) : https://github.com/Babali42/drumbeatrepo
 - Watch the talk - Tremplin de SnowCamp - Novembre 2025 : https://www.youtube.com/watch?v=Y5aUoYGizNM
 
@@ -23,13 +20,6 @@ Feel free to browse my repos and reach me !
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) minor changes in documentation
 - [RenovateBot/Renovate](https://github.com/renovatebot/renovate/) docs : improve styling on a table; add unit tests [#41573](https://github.com/renovatebot/renovate/pull/41573)
 - [CreativeScala/Krop](https://github.com/creativescala/krop) documentation and improvments on a Scala backend web framework [#41](https://github.com/creativescala/krop/pull/41)
-
-## The slideshows of my mini presentations
-
-- [Hexagonal Architecture Tests](https://github.com/Babali42/hexagonal-architecture-tests-in-15-minutes)
-- [What is Functional in Multi-Paradigm Languages](https://github.com/Babali42/what-is-functional-in-oo-langages-in-45-minutes)
-- [CSS Selectors](https://github.com/Babali42/css-selectors-in-45-minutes)
-- [CSS Architecture](https://github.com/Babali42/css-architecture-in-45-minutes)
 
 ## Code koans
 
@@ -45,5 +35,3 @@ __*git clone and code !! 🧑‍💻*__
 - [Typescript  -  up-to-date](https://github.com/Babali42/ts-template-with-jest-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
 - [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
-
-
