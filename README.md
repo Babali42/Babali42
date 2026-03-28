@@ -24,12 +24,14 @@ I'm open to contributing to open-source projects in **.NET**, **Angular**, **Typ
 - [RxJS Koans (updated)](https://github.com/Babali42/RxJSKoans)
   
 ---
-## Code katas - minimalistic templates with unit tests
+## Code katas starter projects
 
-__*git clone and code !! 🧑‍💻*__  
+Up-to-date templates with unit test setup
 
-- [Scala 3.8.2 - ScalaTest 3.2.20 - sbt](https://github.com/Babali42/Scala3-ScalaTest-Template)
-- [F#  -  up-to-date](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
-- [Typescript  -  up-to-date](https://github.com/Babali42/ts-template-with-jest-tests)
+__*Choose a [kata](https://codingdojo.org/kata/) and code !*__  
+
+- [Scala 3](https://github.com/Babali42/scala3-kata-starter)
+- [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
+- [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
 - [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
