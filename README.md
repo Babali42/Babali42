@@ -28,7 +28,7 @@ I'm open to contributing to open-source projects in **.NET**, **Angular**, **Typ
 
 __*git clone and code !! 🧑‍💻*__  
 
-- [Scala 3 - sbt and ScalaTest  -  up-to-date](https://github.com/Babali42/Scala3-ScalaTest-Template)
+- [Scala 3.8.2 - ScalaTest 3.2.20 - sbt](https://github.com/Babali42/Scala3-ScalaTest-Template)
 - [F#  -  up-to-date](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
 - [Typescript  -  up-to-date](https://github.com/Babali42/ts-template-with-jest-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
