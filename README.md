@@ -31,6 +31,7 @@ Up-to-date templates with unit test setup
 __*Choose a [kata](https://codingdojo.org/kata/) and code !*__  
 
 - [Scala 3](https://github.com/Babali42/scala3-kata-starter)
+- [C#](https://github.com/Babali42/csharp-template-with-xunit-tests)
 - [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
 - [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
