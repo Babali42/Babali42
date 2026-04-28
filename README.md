@@ -27,6 +27,8 @@ I'm open to contributing to open-source projects in **.NET**, **Angular**, **Typ
 ---
 ## Code katas starter projects
 
+<img width="2805" height="1984" alt="img20260428_16304245" src="https://github.com/user-attachments/assets/50033e45-e7c1-49ef-896e-54a37869b5fe" />
+
 Up-to-date templates with unit test setup
 
 __*Choose a [kata](https://codingdojo.org/kata/) and code !*__  
