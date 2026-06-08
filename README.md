@@ -11,7 +11,9 @@ I'm open to contributing to open-source projects in **.NET**, **Angular**, **Typ
 - Tech stack: Angular, TypeScript, Web Audio API
 - Explore, modify, or create drum patterns: [drumbeatrepo.com](https://www.drumbeatrepo.com)
 - View code and contribute: [GitHub](https://github.com/Babali42/drumbeatrepo)
-- Watch my talk: Tremplin de SnowCamp, Nov 2025 – [YouTube](https://www.youtube.com/watch?v=Y5aUoYGizNM)
+- Watch my talk:
+  - Tremplin de SnowCamp, Nov 2025 – [YouTube](https://www.youtube.com/watch?v=Y5aUoYGizNM)
+  - MixIt, Apr 2026 - [YouTube](https://www.youtube.com/watch?v=f0q1ADKfbGs)
 
 ## Open Source Contributions
 
