@@ -13,17 +13,13 @@ I'm currently learning **Scala** to deepen my understanding of functional progra
 
 - [Haskell blueprint](https://leanpub.com/haskell-blueprint) - Gautier Di Folco
 - [Functional programming in Scala](https://www.manning.com/books/functional-programming-in-scala-second-edition) - Michael Pilquist, Runar Bjarnasson and Paul Chiusano
-- [Le spleen de Paris](https://www.fnac.com/a1443214/Charles-Baudelaire-Le-Spleen-de-Paris) - Charles Baudelaire
 - [Slow productivity](https://www.fnac.com/a20687655/C-Newport-Slow-productivity) - Cal Newport
-- [Ma maison en fleurs](https://www.fnac.com/a18289374/Pauline-Bilisari-Ma-Maison-en-fleurs) - Pauline Bilisari
 
 ### What I loved to read
 
 - [Grokking functional programming ](https://www.manning.com/books/grokking-functional-programming) - Michał Płachta
 - [Unit testing : Principles practices and patterns](https://www.manning.com/books/unit-testing) - Vladimir Korikhov
 - [Writing for developers](https://www.manning.com/books/writing-for-developers) - Piotr Sarna and Cynthia Dunlop
-- Frankenstein - Mary Shelley
-- [Scrambles Amongst the Alps](https://www.amazon.fr/Scrambles-Amongst-Alps-Edward-Whymper/dp/0792269233) - Edward Whymper
 
 ## Hobby Project – Drum Beat Repo:
 
