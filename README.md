@@ -1,5 +1,3 @@
-# Full‑stack dev | Angular & .NET | TDD enthusiast | WebAudio & music apps
-
 I'm a professional **.NET web developer** with a strong interest in **Test-Driven Development**, **Functional Programming**, and **Software Craftsmanship**.
 I'm open to contributing to open-source projects.
 I'm currently learning **Scala** to deepen my understanding of functional programming.
