@@ -30,6 +30,7 @@ I'm currently learning **Scala** to deepen my understanding of functional progra
 
 ## Open Source Contributions
 
+- [CreativeScala/CreativeScalaTheme](https://github.com/creativescala/creative-scala-theme) modification of the configuration of the navigation panel on [this commit](https://github.com/creativescala/creative-scala-theme/commit/19b00189865895b49929239ead108f24b4f1e965)
 - [LyonTechHub/LyonTechHub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) minor changes and fixes in UI
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) minor changes in documentation
 - [RenovateBot/Renovate](https://github.com/renovatebot/renovate/) docs : improve styling on a table; add unit tests [#41573](https://github.com/renovatebot/renovate/pull/41573)
