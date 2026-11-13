@@ -1,5 +1,4 @@
 I'm a professional **.NET web developer** with a strong interest in **Test-Driven Development**, **Functional Programming**, and **Software Craftsmanship**.
-For DrumBeatRepo, I use GitHub Codespaces and Dev Containers to provide a cloud-based development environment and to simplify pull request validation.
 
 ## Readings
 
