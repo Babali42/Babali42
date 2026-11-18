@@ -11,6 +11,7 @@ I'm a professional **.NET web developer** with a strong interest in **Test-Drive
 
 ## Open Source Contributions
 
+- [Dj-Buddy](https://github.com/dfilaretti/dj-buddy) minor build file update and discussions about the futur features with the solo maintainer
 - [CreativeScala/CreativeScalaTheme](https://github.com/creativescala/creative-scala-theme) modification of the configuration of the navigation panel on [this commit](https://github.com/creativescala/creative-scala-theme/commit/19b00189865895b49929239ead108f24b4f1e965)
 - [LyonTechHub/LyonTechHub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) minor changes and fixes in UI
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) minor changes in documentation
