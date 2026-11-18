@@ -1,9 +1,5 @@
 I'm a professional **.NET web developer** with a strong interest in **Test-Driven Development**, **Functional Programming**, and **Software Craftsmanship**.
 
-## Readings
-
-> I am convinced that we developers are passionate about reading, so here is a reading list for you.
-
 ### What am I reading now ?
 
 - [Haskell blueprint](https://leanpub.com/haskell-blueprint) - Gautier Di Folco
@@ -35,8 +31,6 @@ I'm a professional **.NET web developer** with a strong interest in **Test-Drive
 
 ## Code katas starter projects
 
-Up-to-date templates with unit test setup
-
 __*Choose a [kata](https://codingdojo.org/kata/) and code !*__  
 
 - [Scala 3](https://github.com/Babali42/scala3-kata-starter)
@@ -45,7 +39,3 @@ __*Choose a [kata](https://codingdojo.org/kata/) and code !*__
 - [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
 - [Haskell](https://github.com/Babali42/haskell-template-with-htest)
 - [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
-
-## Misc. repo
-
-- [RxJS Koans (updated)](https://github.com/Babali42/RxJSKoans)
