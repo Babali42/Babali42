@@ -1,17 +1,5 @@
 I'm a professional **.NET web developer** with a strong interest in **Test-Driven Development**, **Functional Programming**, and **Software Craftsmanship**.
 
-### What am I reading now ?
-
-- [Haskell blueprint](https://leanpub.com/haskell-blueprint) - Gautier Di Folco
-- [Functional programming in Scala](https://www.manning.com/books/functional-programming-in-scala-second-edition) - Michael Pilquist, Runar Bjarnasson and Paul Chiusano
-- [Slow productivity](https://www.fnac.com/a20687655/C-Newport-Slow-productivity) - Cal Newport
-
-### What I loved to read
-
-- [Grokking functional programming ](https://www.manning.com/books/grokking-functional-programming) - Michał Płachta
-- [Unit testing : Principles practices and patterns](https://www.manning.com/books/unit-testing) - Vladimir Korikhov
-- [Writing for developers](https://www.manning.com/books/writing-for-developers) - Piotr Sarna and Cynthia Dunlop
-
 ## Hobby Project – Drum Beat Repo:
 
 - Tech stack: Angular, TypeScript, Web Audio API
@@ -33,9 +21,4 @@ I'm a professional **.NET web developer** with a strong interest in **Test-Drive
 
 __*Choose a [kata](https://codingdojo.org/kata/) and code !*__  
 
-- [Scala 3](https://github.com/Babali42/scala3-kata-starter)
-- [C#](https://github.com/Babali42/csharp-template-with-xunit-tests)
-- [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests)
-- [Typescript](https://github.com/Babali42/ts-template-with-jest-tests)
-- [Haskell](https://github.com/Babali42/haskell-template-with-htest)
-- [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
+- [Scala (sbt)](https://github.com/Babali42/scala3-kata-starter), [C#](https://github.com/Babali42/csharp-template-with-xunit-tests), [F#](https://github.com/Babali42/fsharp-template-with-fsunit-tests), [Typescript](https://github.com/Babali42/ts-template-with-jest-tests), [Haskell](https://github.com/Babali42/haskell-template-with-htest), [Scala (mill)](https://github.com/Babali42/scala-template-with-scalatest-and-mill)
